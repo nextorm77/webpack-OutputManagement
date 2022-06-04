@@ -17,3 +17,13 @@ $ npm i
 ### entry point
 
 $ dist/index.html
+
+## Setting up HtmlWebpackPlugin
+
+### node_modules 생성
+
+$ npm i
+
+### entry point
+
+$ dist/index.html
